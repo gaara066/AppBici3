@@ -1,0 +1,1729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Cicleteros Santiago</name>
+  <description><![CDATA[]]></description>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_pay.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_pay.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_pay.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_pay.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>icon/parking_bicycle_free.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Parque Arauco</name>
+    <description><![CDATA[Dirección: Cerro Colorado ó Kennedy con Alonso de Córdova<br>Comuna: Las Condes<br><br>Tipo: Guardería<br>Ubicación: Estacionamientos 2do subterráneo<br>Capacidad: 15<br>Techado: Sí<br>Público: General<br>Horario: Horario Mall<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones: Te entregan número y hay que anotarse.]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-70.579155,-33.403339,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Católica - Campus Lo Contador</name>
+    <description><![CDATA[Dirección: Monseñor Carlos Casanueva con El Comendado<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación:Patio Facultad de Arquitectura<br>Capacidad: 30<br>Techado:<br>Público: General<br>Horario: lunes a viernes 8:30 a 21:00; sabados 8:30 a 13:00<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: Si<br>Observaciones:<br>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-70.618080,-33.419739,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Lider Express - Seminario</name>
+    <description><![CDATA[Dirección: Rancagua con Seminario<br>Comuna: Providencia<br><br>Tipo: Guardería con cortina metálica<br>Ubicación: Al frente de la entrada principal.<br>Capacidad: 6<br>Techado: Si<br>Público: Cilentes<br>Horario: Atención Lider Express (10:00-21:00)<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Avisar al guardia y abre la reja.]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-70.630234,-33.440842,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Finis Terrae</name>
+    <description><![CDATA[Dirección: Pedro de Valdivia 1509 con Pocuro<br>Comuna: Providencia<br><br>Tipo:<br>Ubicación:<br>Capacidad:<br>Techado:<br>Público: Alumnos<br>Horario:<br>Costo: Gratis<br>Guardia:<br>Cadena adicional:<br>Observaciones:]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-70.608177,-33.436455,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frente a Chiledeportes</name>
+    <description><![CDATA[Dirección: Fidel Oteiza 1956<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación:Chiledeportes, entre 11 de septiembre y fidel orteiza (metro pedro de valdivia)<br>Capacidad: 8 a 10<br>Techado: No<br>Público: No sé, pero yo la he dejado ahí cuando tengo clases en el gym<br>Horario: ***<br>Costo: Gratis<br>Guardia: Conserje del edificio.<br>Cadena adicional: No<br>Observaciones: muchos peatones, y eventuales amigos de lo ajeno.<br>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-70.612595,-33.425865,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frente Oficina Turismo</name>
+    <description><![CDATA[Dirección: Providencia 2359 con Los Leones<br>Comuna: Providencia<br><br>Tipo:<br>Ubicación: Al frente de la entrada principal.<br>Capacidad:<br>Techado:<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>-70.606728,-33.420280,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jumbo Bilbao</name>
+    <description><![CDATA[Dirección: Bilbao con Latadía<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada principal.<br>Capacidad: 6<br>Techado: Sí<br>Público: Cilentes<br>Horario:<br>Costo: Gratis<br>Guardia: No fijo<br>Cadena adicional: No<br>Observaciones: Se han registrado robo de bicicletas.]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-70.578171,-33.429935,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alto Las Condes 1</name>
+    <description><![CDATA[Dirección: Padre Hurtado con Kennedy<br>Comuna: Las Condes<br><br>Tipo: Guardería<br>Ubicación: Estacionamientos Falabella<br>Capacidad: 12<br>Techado: Sí<br>Público: Clientes<br>Horario: Atención Alto Las Condes<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones: El guardia a cargo no está fijo ahí.]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-70.546432,-33.390675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Alto Las Condes 2</name>
+    <description><![CDATA[Dirección: Padre Hurtado con Kennedy<br>Comuna: Las Condes<br><br>Tipo: Guardería<br>Ubicación: Al costado escalera cines<br>Capacidad: 15<br>Techado: Sí<br>Público:<br>Horario: Atención Alto Las Condes<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones:]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-70.544846,-33.390888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Consorcio</name>
+    <description><![CDATA[Dirección: El Bosque Sur con Callao<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: A ambos costados de entrada.<br>Capacidad: 8<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-70.599174,-33.419102,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Subway</name>
+    <description><![CDATA[Dirección: Enrique Foster Norte con Apoquindo<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Entrada restaurante.<br>Capacidad: 4<br>Techado: No<br>Público: Clientes<br>Horario: Atención Subway<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-70.594238,-33.415932,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias SalcoBrand Apumanque</name>
+    <description><![CDATA[Dirección: Mar de los Sargazos con Apoquindo<br>Comuna: Las Condes<br><br>Tipo: Cicletero (no deja amarrar marco)<br>Ubicación: Costado entrada.<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>-70.568932,-33.409626,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Colegio Alemán</name>
+    <description><![CDATA[Dirección: Nuestra Sra del Rosario 850 con Kennedy<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Costado entrada principal.<br>Capacidad: 30<br>Techado: Sí<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>-70.567749,-33.398655,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ferretería Yolito</name>
+    <description><![CDATA[Dirección: Las Condes 7090<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada principal.<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario: Atención Ferretería<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-70.558006,-33.404961,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Edificio Municipal Las Condes</name>
+    <description><![CDATA[Dirección: Apoquindo 3400<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada principal.<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-70.594826,-33.416183,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banco Santander</name>
+    <description><![CDATA[Dirección: Nuestra Sra del Rosario con Las Condes<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-70.561218,-33.406754,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Heladería Bravissimo</name>
+    <description><![CDATA[Dirección: Las Tranqueras con Las Condes<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-70.555412,-33.401306,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Almacén y Cafetería Zeppelin</name>
+    <description><![CDATA[Dirección: Del Inca con La Capitanía<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-70.570435,-33.413666,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pastelería Franzel</name>
+    <description><![CDATA[Dirección: Del Inca con Nibaldo Correa<br>Comuna: Las Condes<br><br>Tipo: cicletero<br>Ubicación: Al costado entrada.<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-70.577942,-33.416458,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias SalcoBrand</name>
+    <description><![CDATA[Dirección: Las Condes con Padre Hurtado<br>Comuna: Las Condes<br><br>Tipo: Cicletero (no deja amarrar el marco)<br>Ubicación: Al frente de la entrada<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-70.545906,-33.394184,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias SalcoBrand</name>
+    <description><![CDATA[Dirección: Colón con Manquehue<br>Comuna: Las Condes<br><br>Tipo: Cicletero (no deja amarrar el cuadro)<br>Ubicación: Costado entrada<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-70.565262,-33.416451,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Colegio San Juan Evangelista</name>
+    <description><![CDATA[Dirección: Martín de Zamora con Las Antillas<br>Comuna: Las Condes<br><br>Tipo: Cicletero (no deja amarrar marco)<br>Ubicación: Entrada<br>Capacidad: 30<br>Techado: Sí<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-70.563179,-33.415035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Blockbuster Rotonda Atenas</name>
+    <description><![CDATA[Dirección: Cuarto Centenario con Colón<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al costado de la entrada.<br>Capacidad: 4<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-70.553589,-33.417213,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias Ahumada</name>
+    <description><![CDATA[Dirección: Sebastián Elcano con Colón<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al costado de la entrada<br>Capacidad: 4<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-70.572029,-33.418549,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Starbucks</name>
+    <description><![CDATA[Dirección: Isidora Goyenechea con San Sebastián<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Al frente de la entrada<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-70.600227,-33.413990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Colegio Alemán sede Vitacura</name>
+    <description><![CDATA[Dirección: Kennedy con Manquehue<br>Comuna: Vitacura<br><br>Tipo: Cicletero<br>Ubicación: Entrando a la derecha<br>Capacidad: 15<br>Techado: Sí<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-70.570015,-33.396534,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cámara Chilena de la Construcción</name>
+    <description><![CDATA[Dirección: Marchant Pereira 10<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Estacionamiento subterráneo<br>Capacidad: 8<br>Techado: Sí<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones: Se entra por Providencia]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-70.613708,-33.424942,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clínica Indisa</name>
+    <description><![CDATA[Dirección: Santa María 1810 con Carlos Casanueva<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Estacionamiento subterráneo<br>Capacidad: 6<br>Techado: Sí<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Entrada por Carlos Casanueva]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-70.617928,-33.420769,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Católica - Casa Central</name>
+    <description><![CDATA[Dirección: Alameda 340 con Portugal<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: Patio entrando al fondo a la izquierda<br>Capacidad: 30<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones:]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-70.639984,-33.441254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Católica - Campus San Joaquín 1</name>
+    <description><![CDATA[Dirección: Vicuña Mackenna 4860, metro San Joaquín<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Entrada Hall Estudiantil<br>Capacidad: 15<br>Techado: Sí<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí (pero no fijo)<br>Cadena adicional: Sí, pero se debe llevar candado<br>Observaciones: Este es el cicletero más seguro, pero hay unos 6-8 alrededor del campus.]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-70.613121,-33.497997,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Campus San Joaquín - Deportes</name>
+    <description><![CDATA[Dirección: Vicuña Mackenna 4860<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Entrada multicanchas<br>Capacidad: 6<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>-70.609810,-33.500439,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Campus San Joaquín - Ciencias Sociales</name>
+    <description><![CDATA[Dirección: Vicuña Mackenna 4860<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Parque llegando al edificio de CCSS<br>Capacidad: 6<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: ]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-70.610451,-33.498318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Campus San Joaquín - Salas E</name>
+    <description><![CDATA[Dirección: Vicuña Mackenna 4860<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Salas E.<br>Capacidad: 8<br>Techado: Sí<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-70.614105,-33.499161,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Chile - Facultad de Ciencias Físicas y Matemáticas</name>
+    <description><![CDATA[Dirección: Beauchef 850 con Blanco Encalada<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: Entrada por Tupper<br>Capacidad: 20<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-70.661667,-33.458172,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Batuta</name>
+    <description><![CDATA[Dirección: Jorge Washington 52 con Irarrázaval<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero<br>Ubicación: Entrada<br>Capacidad: 6<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-70.594177,-33.454662,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Católica - Campus Oriente</name>
+    <description><![CDATA[Dirección: Jaime Guzmán 3300 con Elicer Parada<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Entrada de autos<br>Capacidad: 30<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones: Guardia toma datos]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-70.593391,-33.446789,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Santa Isabel Plaza Manuel Rodríguez</name>
+    <description><![CDATA[Dirección: Grajales con Almirante Latorre<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: A un costado de la entrada al supermercado<br>Capacidad: 5<br>Techado: No<br>Público:<br>Horario: 10:00 a 22:00 hrs<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: Si<br>Observaciones: Lleven sus cadenas, el cicletero está por fuera.]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-70.664574,-33.451496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Economax - Cumming</name>
+    <description><![CDATA[Dirección: Agustinas con Ricardo Cumming<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: Entrada <br>Capacidad: <br>Techado: <br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: <br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-70.667862,-33.442471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Chile - Escuela de Gobierno y Gestión Pública</name>
+    <description><![CDATA[Dirección: Compañía 1413 con Amunátegui<br>Comuna: Santiago<br><br>Tipo: <br>Ubicación: Patio Interior <br>Capacidad: 20<br>Techado: No<br>Público: Sólo alumnos<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-70.657280,-33.438927,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Intendencia de Santiago</name>
+    <description><![CDATA[Dirección: Morandé esquina Moneda
+<br>Comuna: Santiago
+<br>
+<br>Tipo: Cicletero
+<br>Ubicación: Interior tras puerta principal
+<br>Capacidad: 6
+<br>Techado: Si
+<br>Público: Visitantes
+<br>Horario: 09:00 - 18:00
+<br>Costo: Gratis
+<br>Guardia: No, pero hay carabineros afuera
+<br>Cadena adicional: No
+<br>Observaciones:]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-70.653252,-33.442150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>BiciPark La Florida</name>
+    <description><![CDATA[Dirección: Serafin Zamora con Vicuña Mackenna<br><br>Tipo: Guardería <br>Ubicación: Costado acceso al Municipio<br>Capacidad: 30<br>Techado: Si<br>Público: Publico general<br>Horario: 07:30 a 20:30 de lunes a viernes y el sábado de 09:30 a 15:00 hrs Domingo Cerrado<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: LLlenar ficha, ]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-70.599579,-33.520683,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Lider - Gran Avenida</name>
+    <description><![CDATA[Dirección: Gran Avenida Dirección 6150<br>Comuna: San Miguel<br><br>Tipo: Fierros dispuestos para amarrar bicis<br>Ubicación: en el subterráneo estacionamiento, frente a Servipag<br>Capacidad: 10<br>Techado: Si<br>Público: Si<br>Horario: 9 a 22<br>Costo: 0$<br>Guardia: Si.<br>Cadena adicional: no<br>Observaciones: el/la guardia está todo el rato ahí al lado... jej, y son amables (no es menor, eh!)]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>-70.656982,-33.512344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Chile - Facultad de Ciencias Químicas y Farmacéuticas</name>
+    <description><![CDATA[Dirección: Olivos 1007<br>Comuna: Independencia<br><br>Tipo: <br>Ubicación: <br>Capacidad: <br>Techado: <br>Público: Alumnos<br>Horario: <br>Costo: Gratis<br>Guardia: <br>Cadena adicional: <br>Observaciones: Entre Independencia y Av La Paz]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-70.652367,-33.423149,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Chile -  Facultad de Medicina</name>
+    <description><![CDATA[Dirección: Independencia 1027<br>Comuna: Independencia<br><br>Tipo: <br>Ubicación: .<br>Capacidad: <br>Techado: <br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: <br>Cadena adicional: <br>Observaciones: ]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-70.655739,-33.418583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall Plaza Norte </name>
+    <description><![CDATA[Dirección: Americo Vespucio 1737<br>Comuna: Huechuraba<br><br>Tipo: Cicletero<br>Ubicación: Salida frente a Falabella.<br>Capacidad: 15<br>Techado: Si<br>Público: General<br>Horario: Atención Mall<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-70.679382,-33.365425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Municipalidad de Huechuraba - Dirección de Obras</name>
+    <description><![CDATA[Dirección: Recoleta con Premio Nobel<br>Comuna: Huechuraba<br><br>Tipo: Cicletero<br>Ubicación: Ingresando por el costado derecho, atrás de caseta<br>Capacidad: 200<br>Techado: No<br>Público: General<br>Horario: 24 horas<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-70.637184,-33.376225,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Ribeiro - Metro Rojas Magallanes</name>
+    <description><![CDATA[Dirección: Vicuña Mackenna paradero 19 con Enrique Olivares<br>Comuna: La Florida<br><br>Tipo: <br>Ubicación: <br>Capacidad: 15<br>Techado: No<br>Público: General<br>Horario: <br>Costo: <br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-70.591232,-33.539715,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Santa Isabel - La Reina</name>
+    <description><![CDATA[Dirección: Larrain 6677<br>Comuna: La Reina<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 15<br>Techado: No<br>Público: General<br>Horario: 10:00 a 21:00<br>Costo: 0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>-70.561020,-33.452175,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cine Hoyts - La Reina</name>
+    <description><![CDATA[Dirección: Ossa 655<br>Comuna: La Reina<br><br>Tipo: Cicletero<br>Ubicación: Primer Subterráneo<br>Capacidad: 6 aprox<br>Techado: Si<br>Público: General<br>Horario: <br>Costo: 0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock<br><br>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-70.571342,-33.447540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Almacén La Oca</name>
+    <description><![CDATA[Dirección: Vicente Perez Rosales / Simón Bolivar<br>Comuna: La Reina<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 5<br>Techado: No<br>Público: General<br>Horario: <br>Costo: 0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock<br><br><br><br><br><br>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-70.551796,-33.444729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mc Donald´s - Principe de Gales</name>
+    <description><![CDATA[Dirección: Principe de Gales 7252<br>Comuna: La Reina<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 10<br>Techado: No<br>Público: General<br>Horario: <br>Costo: 0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-70.555916,-33.439087,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Blockbuster - La Reina</name>
+    <description><![CDATA[Dirección: Principe de Gales 6853<br>Comuna: La Reina<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: <br>Techado: No<br>Público: General<br>Horario:L a V: 11 a 23 Hrs.<br>        S a D: 10 a 00 Hrs <br>Costo: 0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-70.561623,-33.438461,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall Plaza Vespucio</name>
+    <description><![CDATA[Dirección: Americo Vespucio 1737<br>Comuna: La Florida<br>Tipo: Cicletero<br>Ubicación: Salida frente a Jumbo<br>Capacidad: 15<br>Techado: Si<br>Público: General<br>Horario: Atención Mall<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva una cadena o U-lock]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-70.598274,-33.518963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Edificio Sacramentinos II</name>
+    <description><![CDATA[Dirección: San Isidro 488<br>Comuna: Santiago<br><br>Tipo: Cicletero colgante<br>Ubicación: al frente de la caseta de entrada.<br>Capacidad: 20<br>Techado: Si<br>Público: Visitas<br>Horario: 24H<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Avisar al conserje y abre la reja (si eres visita obvio).]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-70.642944,-33.450008,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Homecenter Sodimac - Pajaritos</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av Pajaritos 4444<br>Comuna: Maipú<br><br>Tipo: Guardería con reja<br>Ubicación: <br>Capacidad: 10<br>Techado: Si<br>Público: Cilentes<br>Horario: 09:00-22:00)<br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Cuenta con un sistema arcaico de registro y numeracion, del cleter@ y cleta.<br>Hay camaras de vigilancia<br>Derrepente tienes que buscar al guardia que se pierde en el mismo estacionamiento</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-70.746040,-33.481972,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shopping Las Palmas - Maipú</name>
+    <description><![CDATA[Dirección: Av. Los Pajaritos 1924 esq 5 de abril<br>Comuna: Maipú<br><br>Tipo: Cicletero<br>Ubicación: Subterráneo<br>Capacidad: 15<br>Techado: Si<br>Público: Clientes<br>Horario: 10:00 a 21:00<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva alguna cadena o U Lock]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>-70.757622,-33.510773,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall Florida Center</name>
+    <description><![CDATA[Dirección: Av. Vicuña Mackenna 6100 <br>Comuna: La Florida<br><br>Tipo: Cicletero con custodia<br>Ubicación: Primer subterráneo<br>Capacidad: 20<br>Techado: Si<br>Público: General<br>Horario: 10:00 a 22:00<br>Costo: $0<br>Guardia: Si, aunque anda por el estacionamiento dando vueltas<br>Cadena adicional: Si<br>Observaciones: Te pasan una tarjeta y queda registrado tu nombre]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-70.608360,-33.510197,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Homecenter Sodimac - La Florida</name>
+    <description><![CDATA[Dirección: Av. Vicuña mackenna 6331<br>Comuna: La Florida<br><br>Tipo: Cicletero<br>Ubicación: Entrada local<br>Capacidad: 6<br>Techado: no<br>Público: Clientes<br>Horario: 09:00  21:00 <br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva tu cadena o U Lock]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-70.606682,-33.513687,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Central - Facultad de Arquitectura</name>
+    <description><![CDATA[Dirección: Santa Isabel 1190<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: A un costado de acceso.<br>Capacidad: 15<br>Techado: No<br>Público: Alumnos<br>Horario: <br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: Si<br>Observaciones: ]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-70.651382,-33.452267,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Central - Facultad de Ciencias Económicas y Administrativas</name>
+    <description><![CDATA[Dirección: San Ignacio 414<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 10<br>Techado: No<br>Público: Alumnos<br>Horario: <br>Costo: Gratis<br>Guardia: Si<br>Cadena adicional: Si<br>Observaciones: ]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-70.656082,-33.451675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Diego Portales - Facultad de Ciencias de la Salud I</name>
+    <description><![CDATA[Dirección: Ejercito 143<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: En el Patio<br>Capacidad: 6<br>Techado: No<br>Público: Alumnos<br>Horario: 07:30 20:30<br>Costo: Gratis<br>Guardia: A la entrada de la universidad<br>Cadena adicional: No<br>Observaciones: Seguros, ya que el único acceso es a través de guardias de la facultad.]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-70.661469,-33.448425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Diego Portales - Facultad Ciencias de la Salud II</name>
+    <description><![CDATA[Dirección: Ejercito 233<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: Hall de entrada<br>Capacidad: 6<br>Techado: No<br>Público: Alumnos<br>Horario: 07:30 20:30<br>Costo: Gratis<br>Guardia: A la entrada de la universidad<br>Cadena adicional: No<br>Observaciones: Seguros, ya que el único acceso es a través de guardias de la facultad.]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>-70.661201,-33.449829,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias Cruz Verde - Sn Pablo/Neptuno</name>
+    <description><![CDATA[Dirección: Neptuno Nº 777 esq Sn Pablo<br>Comuna: Lo Prado<br><br>Tipo: Cicletero<br>Ubicación: costado entrada por fuera<br>Capacidad: 5<br>Techado:No<br>Público: Clientes<br>Horario: 0900 21:00<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: llevar cadena o U Lock]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-70.723755,-33.444550,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Municipalidad de Lo Prado (Costado)</name>
+    <description><![CDATA[Dirección: San Pablo 5797<br>Comuna: Lo Prado<br><br>Tipo: Cicletero<br>Ubicación: Al lado de Municipalidad <br>Capacidad:<br>Techado: No<br>Público: General<br>Horario:<br>Costo: <br>Guardia: Si<br>Cadena adicional: No<br>Observaciones:"Telefónica, Aguas Andinas, Chilectra, hay por lo menos 2 bicicleteros cuidados por personas a las cuales le pasas una propina (por lo que he visto se hacen sus buenas monedas)." -- pp vaz]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-70.713722,-33.442905,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Portal La Dehesa</name>
+    <description><![CDATA[Dirección:La Dehesa 1450<br>Comuna: Lo Barnechea<br><br>Tipo: Cicletero<br>Ubicación: Por La Dehesa, frente al Starbucks y los estacionamientos<br>Capacidad: 15<br>Techado: <br>Público:<br>Horario: 10:00 21:00<br>Costo: $0<br>Guardia:<br>Cadena adicional:<br>Observaciones:]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-70.516624,-33.358257,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacias Ahumada - Macul</name>
+    <description><![CDATA[Dirección: Av. Macul Nº 2555 (esq Gregorio de la Fuente)<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 7<br>Techado: No<br>Público: Clientes<br>Horario: 08:00 24:00<br>Costo: $0<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Usa Candado o U Lock]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>-70.599228,-33.478043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad de Chile - Facultad de Ciencias</name>
+    <description><![CDATA[Dirección: Las Encinas 3370<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Costado Caseta guardias<br>Capacidad: <br>Techado: No<br>Público: Alumnos<br>Horario: <br>Costo: $0<br>Guardia:<br>Cadena adicional: No<br>Observaciones: Usa candado o U Lock]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>-70.596657,-33.469040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Borderío</name>
+    <description><![CDATA[Dirección: Av. Monseñor Escrivá de Balaguer Nº 6.400<br>Comuna: Vitacura<br><br>Tipo: Cicletero <br>Ubicación:<br>Capacidad: 15<br>Techado: No<br>Público: Clientes<br>Horario: de atención restaurantes<br>Costo: $0<br>Guardia: Si, pero se mueven por los estacionamientos<br>Cadena adicional:<br>Observaciones: usa cadena y/o U Lock]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-70.580185,-33.381893,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Santa Isabel - Quinta Normal</name>
+    <description><![CDATA[Dirección: San Pablo 4870 esq Radal<br>Comuna: Quinta Normal<br><br>Tipo: Cicletero<br>Ubicación:<br>Capacidad:<br>Techado: Si<br>Público: Clientes<br>Horario: 09:00 22:00<br>Costo: $0<br>Guardia:<br>Cadena adicional: No<br>Observaciones: llevar cadena o U Lock]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-70.702904,-33.440521,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aeropuerto Arturo Merino Benitez (SCL)</name>
+    <description><![CDATA[Dirección: Camino Aeropuerto<br>Comuna: Pudahuel<br><br>Tipo: Cicletero <br>Ubicación: frente de salida llegadas Internacionales<br>Capacidad: 6<br>Techado: Si<br>Público: General<br>Horario: 24H<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Usa candado o u lock]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-70.794189,-33.397099,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banco Chile - Plaza Egaña</name>
+    <description><![CDATA[Dirección: Av. Irarrázaval 5554<br>Comuna: Ñuñoa <br><br>Tipo: Cicletero <br>Ubicación: Costado del banco en estacionamiento de autos<br>Capacidad: 5<br>Techado: No<br>Público: Clientes<br>Horario: <br>Costo: $0<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: usa candado o u lock]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-70.571899,-33.453213,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banco Chile - Tobalaba / Carmen Silva</name>
+    <description><![CDATA[Dirección: Tobalaba 761<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación:<br>Capacidad: 5<br>Techado: No<br>Público: Clientes<br>Horario:<br>Costo: $0<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Usa candado o u lock]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-70.595634,-33.423096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shell Select - Bilbao</name>
+    <description><![CDATA[Dirección: Francisco Bilbao 3785 / Tobalaba<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 6<br>Techado: No<br>Público: Clientes<br>Horario: 24H<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: usa cadena y/o u lock]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>-70.584595,-33.432446,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clínica Dávila</name>
+    <description><![CDATA[Dirección: Av. Recoleta 464<br>Comuna:  Recoleta<br><br>Tipo: Jaula<br>Ubicación: Interior estacionamiento Republic Parking<br>Capacidad: +- 12<br>Techado: Sí<br>Público: Clientes/Personal<br>Horario: 7 am - 10 pm<br>Costo: Gratuito<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Portero eléctrico, avisar al encargado (salida de vehículos).  Cámara de seguridad.<br>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-70.647087,-33.428040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seremi de Salud RM</name>
+    <description><![CDATA[Dirección: Padre Olivares con Zenteno<br>Comuna: Santiago<br><br>Tipo: Cicletero<br>Ubicación: Entrada Seremi, por fuera<br>Capacidad: 10<br>Techado: No<br>Público: General<br>Horario:<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: diseño innovador]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-70.652260,-33.448704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado Lider Vecino - Vespucio Sur</name>
+    <description><![CDATA[Dirección: Av. Americo Vespucio Sur 881 esq Castillo Velasco<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero<br>Ubicación: Subterraneo<br>Capacidad: <br>Techado: Si<br>Público: General <br>Horario: 10:00 22:00<br>Costo: $0<br>Guardia: Si<br>Cadena adicional: No<br>Observaciones: Guardia solicita los datos del dueño de la cleta, para poder retirarla<br>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-70.574799,-33.462612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Galería Animal</name>
+    <description><![CDATA[Dirección: Alonso de Cordova 3105<br><br>Comuna: Vitacura<br><br>Tipo: Cicletero<br>Ubicación: Antejardín de la galería, junto a los estacionamientos de autos<br>Capacidad: 6<br>Techado: no<br>Público:<br>Horario: La galería abre   Lunes a Viernes : 09.30 a 20.00 hrs. Sábado : 10.30 a 14.00 hrs. <br><br>Costo: cero<br>Guardia: no hay<br>Cadena adicional: no hay<br><br>Observaciones: Es un poco inseguro, ya que no se ve desde la recepcion, pero si hay gente comiendo en la cafeteria de afuera hay mayor sensacion de seguridad.]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-70.593742,-33.401886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Municipalidad de Ñuñoa - Servicios Públicos</name>
+    <description><![CDATA[Dirección: Irarrázaval 3550 esquina Pedro de Valdivia<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero<br>Ubicación: Dentro del patio del recinto, en la entrada principal del edificio<br>Capacidad: 6<br>Techado: No<br>Público: Vecinos de la comuna<br>Horario: Municipal<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: En el verano concurri en bicicleta a pagar los derechos de aseo, la puse en el cicletero con mi cable de seguridad, aún así le pregunté al portero (que estaba a 2 metros dentro del edificio) si se hacía cargo del cicletero, me respondió que él sólo era responsable de lo que ocurría dentro del edificio. Ante esta respuesta le exigí (de buena manera) dejar mi bicicleta dentro, en la escalera frente a él con cable, descolocado me respondió, bueno...ahí si poh! <br>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-70.605270,-33.453823,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Edificio Telefónica</name>
+    <description><![CDATA[Dirección: Providencia 111 con Ramón Carnicer<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Entrando por Ramón Carnicer, primer subterráneo al fondo (entrada de autos).<br>Capacidad: 18<br>Techado: Sí<br>Público: Clientes.<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Se debe convencer al guardia de la entrada de autos que uno va a alguna cosa dentro del Edificio de Telefónica (Charla, exposición, trabajo, etc.)]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-70.632690,-33.437244,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jumbo El Llano</name>
+    <description><![CDATA[Dirección:              Parad. 6 de Gran Avenida (frente a Municipalidad)<br>Comuna:               San Miguel<br>Tipo:                     Estructuras de fierro fijadas al piso<br>Ubicación:             Estacionamiento 1er nivel (frente a taxis)<br>Capacidad:            10 bicicletas<br>Techado:               Sí<br>Público:                 Todo público<br>Horario:                 09:30 A 22:00 (invierno) - 09:00 A 23:00 (verano)<br>Costo:                  Gratuito<br>Guardia:               Sólo rondas ocasionales<br>Cadena adicional:  No<br>Observaciones:      Es importante contar con buena cadena de seguridad y pegar la bicicleta a otras que estén LA BICICLETA A<br>                            OTRAS QUE ESTEN ESTACIONADAS, SI LA DEJAS AL MEDIO DE DOS ES MEJOR.]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-70.651192,-33.485970,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Servipag BIP Grecia-Macul</name>
+    <description><![CDATA[Dirección: José Pedro Alessandri 1027 con Grecia<br>Comuna: Macul<br><br>Tipo: Cicletero<br>Ubicación: Costado entrada<br>Capacidad: 5<br>Techado: No<br>Público: Clientes<br>Horario: Lu-Vi:10:00 - 20:00. Sa: 10:00 - 14:00<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-70.598465,-33.464088,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Banco Estado</name>
+    <description><![CDATA[Dirección: José Pedro Alessandri 1613<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero<br>Ubicación: costado entrada<br>Capacidad: 6<br>Techado: No<br>Público: Clientes<br>Horario: Banco<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-70.598747,-33.469452,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Homecenter Sodimac Ñuble</name>
+    <description><![CDATA[Dirección: Av. Vicuña Mackenna 1770<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero <br>Ubicación: Subterráneo costado escaleras mecánicas<br>Capacidad: 15<br>Techado: Si<br>Público: General<br>Horario: Atención Local<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Llevar cadena, U Lock o Similar]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>-70.626122,-33.466534,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Portal La Reina</name>
+    <description><![CDATA[Dirección: Avda. Francisco Bilbao 8750 con Padre Hurtado<br>Comuna: Las Condes<br><br>Tipo: Guarderia<br>Ubicación: Estacionamiento junto a escaleras mecanicas, entrando por Avda. Bilbao frente al Easy<br>Capacidad: +ó-30<br>Techado: Sí<br>Público: Sí (osea se entiende para clientes pero...)<br>Horario: De las tiendas, hasta las 10pm aprox.<br>Costo: $0<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones: Se deja nombre, marca, modelo, color al guardia.]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>-70.540764,-33.428165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>SalcoBrand Antonio Varas con Diagonal Oriente</name>
+    <description><![CDATA[Dirección: Diagonal Oriente con Antonio Varas<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero (no permite amarrar marco)<br>Ubicación: Costado de entrada<br>Capacidad: 6<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-70.610909,-33.446514,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ferretería Com. Oyarzún</name>
+    <description><![CDATA[Dirección: Jorge Matte Gormaz 2650 con Elicer Parada<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Entrada<br>Capacidad: 5<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-70.587189,-33.439007,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Universidad Gabriela Mistral</name>
+    <description><![CDATA[Dirección: Ricardo Lyon con Las Violetas<br>Comuna: Providencia<br><br>Tipo: Cicletero (no deja amarrar marco)<br>Ubicación: Estacionamiento apartado de la universidad (una cuadra hacia el sur)<br>Capacidad: 30<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>-70.605743,-33.433357,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mall Sport</name>
+    <description><![CDATA[Dirección: Av. Las Condes 13500 esquina Fernández Concha<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Entrada peatonal<br>Capacidad: 6<br>Techado: No<br>Público: General<br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: ]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-70.506416,-33.370445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Instituto Profesional La Araucana</name>
+    <description><![CDATA[Dirección: Ejército 171 con Sazie<br>Comuna: Santiago<br><br>Tipo: Estructura de fierro<br>Ubicación: 1er subterráneo<br>Capacidad: 15<br>Techado: Sí<br>Público: Estudiantes del sector<br>Horario: 08:00 - 22:30<br>Costo: Propina voluntaria<br>Guardia:<br>Cadena adicional: No<br>Observaciones: en la noche<br>hay que esperar a que salgan las motos]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-70.661400,-33.449097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Clínica Meds</name>
+    <description><![CDATA[Dirección: Isabel la Católica 3740 esquina Sánchez Fontecilla<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Costado entrada<br>Capacidad: 6<br>Techado: No<br>Público: <br>Horario: <br>Costo: gratis<br>Guardia: <br>Cadena adicional: No<br>Observaciones: ]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-70.584961,-33.430157,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Biblioteca de Santiago</name>
+    <description><![CDATA[Dirección: Matucana 151 con Moneda<br>Comuna: Santiago<br><br>Tipo: Fierro a piso<br>Ubicación: frente a la puerta de entrada a la biblioteca  <br>Capacidad: 20 - 30<br>Techado: no<br>Público: <br>Horario: MARTES a VIERNES 11:00 a 20:00 sabados y domigo 11:00 16:30  ( LUNES CERRADO )<br>Costo: Gratis<br>Guardia: Sí, pero a unos 20 metros en la entrada de la biblioteca<br>Cadena adicional: No<br>Observaciones: Están a pleno sol. Sería bueno llevarle un pijama si van a estar mucho tiempo, no hay sombra en todo el día.]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-70.679596,-33.444530,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Club Deportivo Manquehue</name>
+    <description><![CDATA[Dirección: Av. Vitacura 5841 con Cuernavaca<br>Comuna: Vitacura<br><br>Tipo: Cicletero enrejado<br>Ubicación: Al frente de la entrada de autos.<br>Capacidad: 20<br>Techado: Sí<br>Público: <br>Horario:<br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-70.575562,-33.392967,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muni. de Providencia</name>
+    <description><![CDATA[Dirección: Marchant Pereira con Eliodoro Yáñez<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Entrando por Marchant Pereira a la izquierda<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-70.611229,-33.432423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Muni de Providencia</name>
+    <description><![CDATA[Dirección: Pedro de Valdivia entre Eliodoro Yáñez y Mar del Plata<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Costado de paseo<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-70.610352,-33.432304,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parque Bicentenario</name>
+    <description><![CDATA[Dirección: Avenida Bicentenario<br><br>Comuna: Vitacura<br><br>Tipo: Cicletero<br>Ubicación: junto a los estacionamientos de autos<br>Capacidad: 10<br>Techado: no<br>Público: General<br>Horario: libre<br>Costo: cero<br>Guardia: no hay<br>Cadena adicional: no hay]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-70.599648,-33.393936,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Almacén Afterlun</name>
+    <description><![CDATA[Dirección: Hernando de Aguirre con Chile España<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: <br>Capacidad: 4<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-70.591835,-33.440628,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro Artesanal de Vitacura</name>
+    <description><![CDATA[Dirección: Av. Vitacura con Lo Beltrán<br>Comuna: Vitacura<br><br>Tipo: Cicletero<br>Ubicación: Por el lado de Lo Beltrán.<br>Capacidad: 5-6<br>Techado: No<br>Público: Cualquiera<br>Horario: Atención Aldea Artesanal (10:00-22:00)<br>Costo: Gratis<br>Guardia: Rondan seguido por la feria<br>Cadena adicional: Sí<br>Observaciones:]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-70.566711,-33.387554,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bar Liguria</name>
+    <description><![CDATA[Dirección: Av. Providencia esquina Manuel Montt<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Costado de la entrada<br>Capacidad: 8<br>Techado: No<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: ]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-70.619728,-33.428791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>UCINF</name>
+    <description><![CDATA[Dirección: Pedro de Valdivia 641<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación:<br>Capacidad: 10<br>Techado: No<br>Público: Cualquiera*<br>Horario: 07.00 a 22.00<br>Costo: Gratis<br>Guardia: Al lado del cicletero<br>Cadena adicional: Sí<br>Observaciones:<br>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-70.610352,-33.428471,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hotel Plaza El Bosque</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Ebro 2828 con Helvecia<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Primer subterráneo, estacionamiento de autos<br>Capacidad: 6<br>Techado: Sí<br>Público: Huéspedes, trabajadores, clientes, asistentes a congresos<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Entrada por Helvecia</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-70.602242,-33.415081,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant Danoi</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Sucre con Italia<br>Comuna: Ñuñoa<br><br>Tipo: Cicletero<br>Ubicación: Fuera del Restaurant, en la esquina<br>Capacidad: 6<br>Techado: No<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-70.624062,-33.450851,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metro Vespucio Norte L2</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av Americo Vespucio Recoleta<br>Comuna: Independencia<br><br>Tipo: Casillero individual<br>Ubicación: Estación <br>Capacidad: 22<br>Techado: Sí<br>Público: General<br>Horario: <br>Lu a Sabado 0700 - 2200<br>Domingo 0800 - 2100<br>Costo: 5 horas $200 / todo el día $300<br>Guardia:Si<br>Cadena adicional: El casillero tiene<br>Observaciones:</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-70.641914,-33.383293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metro Cristobal Colón L4</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av Tobalaba <br>Comuna: Tobalaba<br><br>Tipo: Casillero individual<br>Ubicación: Estación <br>Capacidad: 22<br>Techado: Sí<br>Público: General<br>Horario: <br>Lu a Sabado 0700 - 2200<br>Domingo 0800 - 2100<br>Costo: 5 horas $200 / todo el día $300<br>Guardia:Si<br>Cadena adicional: El casillero tiene<br>Observaciones:</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-70.590675,-33.426929,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metro Grecia L4</name>
+    <description><![CDATA[<div dir="ltr"> <br>Dirección: Grecia / Americo Vespucio <br>Comuna: Ñuñoa <br><br>Tipo: Casillero individual <br>Ubicación: Estación <br>Capacidad: 22 <br>Techado: Sí <br>Público: General <br>Horario: <br>Lu a Sabado 0700 - 2200 <br>Domingo 0800 - 2100 <br>Costo: 5 horas $200 / todo el día $300 <br>Guardia:Si <br>Cadena adicional: El casillero tiene <br>Observaciones:</div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-70.576813,-33.469540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metro Las Mercedes L4</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av Concha y Toro / Av Independencia<br>Comuna: Puente Alto<br><br>Tipo: Casillero individual<br>Ubicación: Estación <br>Capacidad: 22<br>Techado: Sí<br>Público: General<br>Horario: <br>Lu a Sabado 0700 - 2200<br>Domingo 0800 - 2100<br>Costo: 5 horas $200 / todo el día $300<br>Guardia:Si<br>Cadena adicional: El casillero tiene<br>Observaciones:</div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>-70.577309,-33.600681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro Urbano Las Rejas</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Avda. Libertador Bernardo O´Higgins 5199<br>Comuna: Estación Central<br><br>Tipo: Cicletero<br>Ubicación: Subterráneo<br>Capacidad: 10<br>Techado: Si<br>Público: Clientes<br>Horario: 10:00 a 21:00<br>Costo: $0<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: Lleva alguna cadena o U Lock</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-70.705132,-33.456760,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro Aéreo Aeropuerto AMB</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Camino Aeropuerto <br>Comuna: Pudahuel <br><br>Tipo: Cicletero <br>Ubicación: costado Centro Aéreo<br>Capacidad: 20<br>Techado: No<br>Público: General <br>Horario: 24H <br>Costo: $0 <br>Guardia: No <br>Cadena adicional: No <br>Observaciones: Usa candado o u lock</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-70.791389,-33.404934,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ekono Sta </name>
+    <description><![CDATA[<div dir="ltr">Dirección: Santa Isabel con Jose Manuel Infante<br>Comuna: Providencia<br><br>Tipo: Cicletero <br>Ubicación: Costado de entrada<br>Capacidad: 6<br>Techado: No<br>Público: general<br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: usa U-Lock o cadena para dejar tu bici.</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-70.619926,-33.445301,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Centro de Salud El Aguilucho</name>
+    <description><![CDATA[<div dir="ltr">Dirección: El Aguilucho 3292 esq Holanda<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Costado entrada<br>Capacidad: 4<br>Techado: No<br>Público: <br>Horario: Lu a Ju 08:15 - 16:30. Vi 08:15 - 15:30<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-70.598915,-33.442974,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jumbo Mall Arauco Maipú</name>
+    <description><![CDATA[<div dir="ltr">Dirección: <br>Comuna: Maipú<br><br>Tipo: <br>Ubicación: <br>Capacidad: unas 20<br>Techado: Si<br>Público: Cilentes<br>Horario: <br>Costo: Gratis<br>Guardia: Derrepente<br>Cadena adicional: TODAS LAS QUE PUEDAS<br>Observaciones: No recomiendo dejar tu bicicleta aqui, muchas denuncias de robo.</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-70.753029,-33.480476,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermercado</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Apoquindo con Camino El Alba<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Entrada peatonal supermercado<br>Capacidad: 6<br>Techado: No<br>Público: General<br>Horario: <br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones: </div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-70.545532,-33.407585,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>JaponYa</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av. Pedro de Valdivia 2143 esq Normandía<br>Comuna: Providencia<br><br>Tipo: Cicletero<br>Ubicación: Vereda al lado de mesas<br>Capacidad: 8<br>Techado: No<br>Público: <br>Horario:<br>Costo: Gratis<br>Guardia: No<br>Cadena adicional: No<br>Observaciones:</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-70.606918,-33.442524,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Parque Arauco</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Av. Kennedy con Rosario Norte<br>Comuna: Las Condes<br><br>Tipo: Guardería<br>Ubicación: Frente al cine, entrando por Kennedy<br>Capacidad: 30<br>Techado: Sí<br>Público: <br>Horario: <br>Costo: Gratis<br>Guardia: Sí<br>Cadena adicional: Sí<br>Observaciones:</div>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-70.578201,-33.401245,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Falabella</name>
+    <description><![CDATA[<div dir="ltr">Dirección: Manquehue con Del Inca<br>Comuna: Las Condes<br><br>Tipo: Cicletero<br>Ubicación: Primer subterráneo.<br>Capacidad: 8<br>Techado: Sí<br>Público:<br>Horario:<br>Costo: Gratis<br>Guardia: Sí, aunque no sé si constante<br>Cadena adicional: No<br>Observaciones: Se ingresa por la entrada de autos</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-70.566895,-33.410854,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

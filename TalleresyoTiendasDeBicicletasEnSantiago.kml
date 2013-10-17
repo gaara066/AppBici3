@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml>
+<Document>
+	<name>TalleresyoTiendasDeBicicletasEnSantiago.kml</name>
+	  <Style id="style_talleres">
+		<IconStyle>
+		  <Icon>
+			<href>icon/workshop.png</href>
+		  </Icon>
+		</IconStyle>
+	  </Style>
+	
+	<Placemark>
+		<name><![CDATA[Una Velocidad]]></name>
+		<description><![CDATA[Esmeralda 775]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.648659,-33.434593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Holanda]]></name>
+		<description><![CDATA[Holanda 29]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.604111,-33.419643,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[San Diego]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.649673,-33.456310,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Taller]]></name>
+		<description><![CDATA[Dublé Almeyda 4294]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.585258,-33.458115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Peter Tormen]]></name>
+		<description><![CDATA[Las Condes 7030]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.558212,-33.405216,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eduardo Silva]]></name>
+		<description><![CDATA[Antonio Bellet 29]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.616684,-33.426823,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicicletería]]></name>
+		<description><![CDATA[Larraín 6000]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.567955,-33.453224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Egaña]]></name>
+		<description><![CDATA[Larraín 6280]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.564941,-33.452862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Café La Bicicleta]]></name>
+		<description><![CDATA[Simón Bolivar 3742]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.592224,-33.448517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Infante]]></name>
+		<description><![CDATA[José Manuel Infante 1462]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.619637,-33.444511,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cannondale]]></name>
+		<description><![CDATA[Nueva Las Condes 12375]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.516823,-33.372993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Giant]]></name>
+		<description><![CDATA[Padre Hurtado 1137<BR>&nbsp;]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.549004,-33.387905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Manuel Martínez]]></name>
+		<description><![CDATA[Polcura 1925]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.552917,-33.429211,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Chancha Pig]]></name>
+		<description><![CDATA[Gilberto Fuenzalida 205]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.544647,-33.390144,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Arjuna]]></name>
+		<description><![CDATA[Irarrázaval 647]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.624084,-33.452915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Avilés]]></name>
+		<description><![CDATA[Bilbao 7529]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.553101,-33.430515,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[López]]></name>
+		<description><![CDATA[Cerrito 271]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.635658,-33.430984,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Urban Cycling]]></name>
+		<description><![CDATA[Tomás Moro 885]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.553146,-33.416340,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Alexander]]></name>
+		<description><![CDATA[Fermín Vivaceta 4790]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.679848,-33.385342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Beltrán]]></name>
+		<description><![CDATA[Luis Beltrán 1563]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.620003,-33.446911,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Oxford sucursal Providencia]]></name>
+		<description><![CDATA[Manuel Montt 933]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.616234,-33.436531,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Oxford sucursal Vitacura]]></name>
+		<description><![CDATA[Vitacura 7163]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.564018,-33.386471,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicioutlet sucursal Ñuñoa]]></name>
+		<description><![CDATA[Irarrázaval 5515]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.572754,-33.453472,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicioulet sucursal Las Condes]]></name>
+		<description><![CDATA[Vaticano 4391]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.577896,-33.425285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Echard Bike]]></name>
+		<description><![CDATA[Vitacura 6459]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.569260,-33.389458,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Brabus]]></name>
+		<description><![CDATA[Apóstol Santiago 440]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.692291,-33.445641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mena]]></name>
+		<description><![CDATA[Pedro Lagos 1112]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.648964,-33.466160,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Valber]]></name>
+		<description><![CDATA[Ossa 146]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.570961,-33.452145,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Urrutia]]></name>
+		<description><![CDATA[Macul 4595]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.598991,-33.495575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Servi Bike]]></name>
+		<description><![CDATA[Monseñor Edwards 1024]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.561386,-33.445030,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Altered sucursal Las Condes]]></name>
+		<description><![CDATA[Cristobal Colón 5831]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.566925,-33.417255,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Altered sucursal Vitacura]]></name>
+		<description><![CDATA[Gerónimo de Alderete 1651]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.564613,-33.387615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Franklin 1472]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.653778,-33.473587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Cóndor]]></name>
+		<description><![CDATA[Rodrigo De Araya 3673]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.593544,-33.473774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Jopa Bike]]></name>
+		<description><![CDATA[Rodrigo De Araya 3214]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.598320,-33.473652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Silva]]></name>
+		<description><![CDATA[Vicuña Mackenna 1469]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.627831,-33.462406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Dr. Pedro Lautaro Ferrer 2810]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.602089,-33.444923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Araya]]></name>
+		<description><![CDATA[Maule 443]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.635666,-33.465923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Tigre]]></name>
+		<description><![CDATA[Tagua Tagua 8398]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.544373,-33.473293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fray Camilo Henríquez 696]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.633446,-33.451450,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles El Rayo]]></name>
+		<description><![CDATA[Pedro Fontova 3987]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.670349,-33.390461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ramírez]]></name>
+		<description><![CDATA[Gral. Bulnes 1429]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.671700,-33.429314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Nautika]]></name>
+		<description><![CDATA[Irarrázaval 3808]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.589287,-33.455441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pocónchile 3395]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.596497,-33.474052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Don Juan]]></name>
+		<description><![CDATA[Gracia 6451]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.567879,-33.471024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Tern Bicycles]]></name>
+		<description><![CDATA[Las Condes 7085]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.557777,-33.404953,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicicletas A.R.E.]]></name>
+		<description><![CDATA[Clemente Fabres 1272]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.615303,-33.441635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Clínica de Bicicletas]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.573517,-33.469879,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[You Bike]]></name>
+		<description><![CDATA[Simón Bolivar 4536]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.583199,-33.448376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Grito Bikes]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.626419,-33.444126,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eurocycles]]></name>
+		<description><![CDATA[Las Condes 12265]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.518059,-33.372944,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicicletas Lascon]]></name>
+		<description><![CDATA[Irarrazaval 2785]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.602142,-33.454468,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ciclo Service]]></name>
+		<description><![CDATA[Simón Bolivar 3751]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.591682,-33.448505,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Evo Bikes]]></name>
+		<description><![CDATA[La Florida 8511]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.575783,-33.529915,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Monster]]></name>
+		<description><![CDATA[Perpetua Freire 1422]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.580856,-33.529938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Roca's]]></name>
+		<description><![CDATA[Santa Raquel 8765]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.603409,-33.535427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Bicicleta Verde]]></name>
+		<description><![CDATA[Loreto 6]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.642670,-33.433926,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Citycleta]]></name>
+		<description><![CDATA[República De Cuba 1730]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.591080,-33.431625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Villa]]></name>
+		<description><![CDATA[Walker Martínez 1657]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.580185,-33.522575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Villa sucursal]]></name>
+		<description><![CDATA[Walker Martínez 1874]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.577782,-33.522362,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicimundo]]></name>
+		<description><![CDATA[Vitacura 4868]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.585594,-33.397659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Con El Ciclismo En La Sangre]]></name>
+		<description><![CDATA[Los Pajaritos 4982 loc. 1-A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.740952,-33.476021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mafa Bike]]></name>
+		<description><![CDATA[Manuel Rodríguez 3457]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.760139,-33.494972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Ferry]]></name>
+		<description><![CDATA[Recoleta 4088]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.642273,-33.387951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Acuña]]></name>
+		<description><![CDATA[Gran Avenida 7113]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.660072,-33.521477,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Catejo]]></name>
+		<description><![CDATA[Ramón Cruz 3161]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.584885,-33.484344,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ciclismo Para Todos]]></name>
+		<description><![CDATA[Independencia 3709]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.672775,-33.394463,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rafael Burgos]]></name>
+		<description><![CDATA[Arturo Prat 1032]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.647476,-33.458019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Club Mini Cic]]></name>
+		<description><![CDATA[Alvarez De Toledo 1050]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.650162,-33.490154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Casa De La Bicicleta]]></name>
+		<description><![CDATA[Alameda 3435]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.681580,-33.451595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fuentes Acuña]]></name>
+		<description><![CDATA[Concha Y Toro 4299]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.584068,-33.566475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Mini]]></name>
+		<description><![CDATA[Alfredo Silva Carvallo 1341]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.774483,-33.531307,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Origan sucursal Alameda]]></name>
+		<description><![CDATA[Alameda 3559]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.684509,-33.452248,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Relacionador Aránguiz 680]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.746117,-33.449108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Bicicleta]]></name>
+		<description><![CDATA[Walker Martínez 232 loc. 5]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.597191,-33.522530,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Pino 78]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.670303,-33.550175,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Marcela Paz 3489]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.558266,-33.527447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[5 De Abril 437]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.762871,-33.510696,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Zeev-Bike]]></name>
+		<description><![CDATA[Tres Poniente 465]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.773811,-33.532036,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Max Mercury]]></name>
+		<description><![CDATA[Lo Espinoza 2893]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.706467,-33.411552,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Jordano]]></name>
+		<description><![CDATA[Gral. Bulnes 1025]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.671219,-33.432968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ragazza]]></name>
+		<description><![CDATA[Gran Avenida 6670]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.659119,-33.518650,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Euskadi]]></name>
+		<description><![CDATA[García Reyes 5]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.670403,-33.448166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Santa Valentina 11017]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.636719,-33.563416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Pinar 157]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.621773,-33.491749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Los Zapadores 904]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.646606,-33.389095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sparton]]></name>
+		<description><![CDATA[Santa Rosa 7942]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.634850,-33.531796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Santa Rosa 6518]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.636208,-33.521748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bici Boss]]></name>
+		<description><![CDATA[Apoquindo 7474]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.552155,-33.408367,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Arias]]></name>
+		<description><![CDATA[José Joaquín Pérez 7203]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.734558,-33.429535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Muñoz]]></name>
+		<description><![CDATA[Santa Rosa 9290]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.633598,-33.545197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Florida]]></name>
+		<description><![CDATA[Walker Martínez 680]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.591072,-33.522648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Champion]]></name>
+		<description><![CDATA[José Joaquín Pérez 8439]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.742210,-33.429855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Wilson]]></name>
+		<description><![CDATA[Vicuña Mackenna Oriente 9842, loc. D]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.587959,-33.546005,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Wilson N° 4]]></name>
+		<description><![CDATA[Vicuña Mackenna 10197]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.586990,-33.551727,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Urra]]></name>
+		<description><![CDATA[Irarrázaval 4998]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.577934,-33.454334,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sandoval]]></name>
+		<description><![CDATA[Eyzaguirre 270-A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.579498,-33.612663,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Burgos]]></name>
+		<description><![CDATA[Luis Lazzarini 7447]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.741714,-33.419846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Rápido]]></name>
+		<description><![CDATA[María Elena 770]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.596001,-33.561829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pastene]]></name>
+		<description><![CDATA[Milán 1439]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.735603,-33.428028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Pelao]]></name>
+		<description><![CDATA[Vecinal Oriente 13375]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.674950,-33.582554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Huguito]]></name>
+		<description><![CDATA[San Francisco 10515]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.656372,-33.560329,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[San Luis]]></name>
+		<description><![CDATA[Antonio Bórquez Del Solar 9798]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.683563,-33.546829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Chili]]></name>
+		<description><![CDATA[Grecia 6432]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.567657,-33.470814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rodeco]]></name>
+		<description><![CDATA[Matuca 10, loc. A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.679054,-33.449955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Nataniel Cox]]></name>
+		<description><![CDATA[Nataniel Cox 2069]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.649605,-33.473049,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mingo]]></name>
+		<description><![CDATA[Grecia 6934]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.561340,-33.472057,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Chancha Bique]]></name>
+		<description><![CDATA[Carrascal 4814]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.699348,-33.421356,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Salto]]></name>
+		<description><![CDATA[El Salto 3260]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.626961,-33.397087,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Central Bici]]></name>
+		<description><![CDATA[General Gambino 3980]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.660774,-33.385639,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Luchita]]></name>
+		<description><![CDATA[Condell 1298]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.727821,-33.406570,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Hilda]]></name>
+		<description><![CDATA[Tres Poniente 2761]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.778336,-33.503075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Virgen De La Puerta]]></name>
+		<description><![CDATA[Recoleta 573 A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.645889,-33.425682,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Taller]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.564941,-33.478275,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Don Hugo]]></name>
+		<description><![CDATA[Los Fiordos 9882]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.574463,-33.547096,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Centenario 352]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.761482,-33.499840,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Nataniel 902]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.652039,-33.457394,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rolando]]></name>
+		<description><![CDATA[San Pablo 4941]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.703331,-33.440430,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pelantaro 2372]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.770180,-33.504093,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Universo]]></name>
+		<description><![CDATA[Los Morros 11650 B]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.673271,-33.570545,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Finisterra]]></name>
+		<description><![CDATA[Catorce De La Fama 2584]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.676216,-33.401169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Moisés]]></name>
+		<description><![CDATA[Santa Rosa 6428]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.636452,-33.519558,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicicletería]]></name>
+		<description><![CDATA[Prieto 1014]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.653679,-33.429852,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mall Sport]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.506317,-33.370201,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pro Cycles]]></name>
+		<description><![CDATA[Lago Yelcho 05208]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.565819,-33.549889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rave]]></name>
+		<description><![CDATA[Gluck 3264]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.625092,-33.483124,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Chavo]]></name>
+		<description><![CDATA[Sargento Menadier 379]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.570610,-33.615723,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Casanova]]></name>
+		<description><![CDATA[Domingo Santa María 3623]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.695114,-33.408356,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fernández]]></name>
+		<description><![CDATA[José Manuel Balmaceda 4273]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.707611,-33.403572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Dinneli]]></name>
+		<description><![CDATA[Santo Domingo 128]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.577263,-33.610958,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Mi Bendición]]></name>
+		<description><![CDATA[Los Mercedarios 0799 dpto. 413]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.759026,-33.361195,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[David Ramírez]]></name>
+		<description><![CDATA[Gabriela Oriente 01134]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.569107,-33.576523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bomberos De Puente Alto 2063]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.551094,-33.611183,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Pavez sucursal Los Tricahues]]></name>
+		<description><![CDATA[Los Tricahues 1430]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.567352,-33.569126,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Tuercas Cycles]]></name>
+		<description><![CDATA[General Velásquez 1296]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.717880,-33.405186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eco Bike sucursal La Reina]]></name>
+		<description><![CDATA[Príncipe de Gales 6469 ]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.565285,-33.438435,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Eco Bike sucursal Peñalolén]]></name>
+		<description><![CDATA[Consistorial 3485, loc. 4]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.548965,-33.487186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Altered sucursal La Reina]]></name>
+		<description><![CDATA[Jorge Alessandri 1131, loc. 18]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.546509,-33.460114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pedro De Valdivia]]></name>
+		<description><![CDATA[Pedro De Valdivia 5838]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.605850,-33.477493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Service Center]]></name>
+		<description><![CDATA[Estacionamiento Parque Arauco]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.578796,-33.403667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Las Encinas, Casa V]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.605988,-33.469501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Kyv Cycling]]></name>
+		<description><![CDATA[Lo Beltrán 1979]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.566750,-33.385494,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Wilson N° 1]]></name>
+		<description><![CDATA[Enrique Olivares 1256]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.574707,-33.539677,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bikespot]]></name>
+		<description><![CDATA[Apoquindo 4900 loc. 18]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.578278,-33.412018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Speed Light]]></name>
+		<description><![CDATA[Cuarto Centenario 1015]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.552101,-33.418804,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sportxperts]]></name>
+		<description><![CDATA[Las Condes 12340 loc. 5]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.517570,-33.372738,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Kamaleon Bikes]]></name>
+		<description><![CDATA[Crescente Errázuriz 335]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.625977,-33.457237,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ride a Bike]]></name>
+		<description><![CDATA[Vasco De Gama 5527]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.574455,-33.460724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[BeCykel]]></name>
+		<description><![CDATA[Italia 1194, loc. 5]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.625305,-33.445560,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Sucucho]]></name>
+		<description><![CDATA[Rancagua 188]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.630241,-33.440956,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Planett]]></name>
+		<description><![CDATA[Buenos Aires 291]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.641792,-33.427353,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bicis.cl]]></name>
+		<description><![CDATA[Barranquilla 692]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.581070,-33.544914,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Lobo Bikes]]></name>
+		<description><![CDATA[Diagonal Rancagua 980]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.619980,-33.439930,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Alemany Retro Cycles]]></name>
+		<description><![CDATA[Romeo 4533]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.663292,-33.492882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Bicicletería]]></name>
+		<description><![CDATA[Santa Marta 7124]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.676575,-33.357300,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Belda]]></name>
+		<description><![CDATA[Mall Plaza Vespucio loc. D-125 ]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.596863,-33.516487,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[BC-Help]]></name>
+		<description><![CDATA[Holanda 079 loc. 211]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.604675,-33.418335,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Origan sucursal Apoquindo]]></name>
+		<description><![CDATA[Apoquindo 7072]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.555992,-33.407852,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Nación Pedal]]></name>
+		<description><![CDATA[Dr. Manuel Barros Borgoño 20]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.619293,-33.428993,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Enviro]]></name>
+		<description><![CDATA[Condell 1342]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.625816,-33.446991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Akela Bikes]]></name>
+		<description><![CDATA[Mariano Sánchez Fontecilla 1998, loc. 4]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.554642,-33.474243,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Niubikes sucursal Lautaro Ferrer]]></name>
+		<description><![CDATA[Holanda 2808]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.597351,-33.444355,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Máquina Maravillosa]]></name>
+		<description><![CDATA[Ayacucho 477]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.646400,-33.437019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Don Nico]]></name>
+		<description><![CDATA[Providencia 2594 loc. Z7]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.602982,-33.418816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Pedalea Beaucheff]]></name>
+		<description><![CDATA[Tupper 2140]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.664345,-33.458572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Esquina B.A.R.]]></name>
+		<description><![CDATA[Gral. Baquedano 557]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.665985,-33.438305,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Niubikes sucursal Echeñique]]></name>
+		<description><![CDATA[Echeñique 4366]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.585083,-33.446667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Torres de Fleming]]></name>
+		<description><![CDATA[Florencio Barrios 1685, Torre 4 loc. 4]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.552322,-33.425877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Astorga]]></name>
+		<description><![CDATA[Esmeralda 24]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.698204,-33.599346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cicles Pavéz sucursal La Florida]]></name>
+		<description><![CDATA[La Florida 1149]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.559769,-33.558125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Fuentes]]></name>
+		<description><![CDATA[José Miguel Infante 5501]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.726730,-33.406506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Patricio Martínez]]></name>
+		<description><![CDATA[Apoquindo 5681 (Caracol Vip's, loc. 3)]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.570488,-33.409794,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rueda La Bolañera]]></name>
+		<description><![CDATA[Maturana 302]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.666656,-33.441170,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Jamanco Kike]]></name>
+		<description><![CDATA[Fermín Vivaceta 1276 A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.664223,-33.415958,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Paolo]]></name>
+		<description><![CDATA[Las Parcelas 9000 D]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.550774,-33.469833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Ruta Barata]]></name>
+		<description><![CDATA[Bellavista 0583]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.628174,-33.430855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Jara]]></name>
+		<description><![CDATA[Los Diamantes 506]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.766998,-33.528114,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[César]]></name>
+		<description><![CDATA[Victor Manuel 2210, sector 1, loc. 1-A / 2230 sector 5, loc. 347-A]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.640709,-33.473202,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Moreno y Moreno]]></name>
+		<description><![CDATA[Tres Poniente 8089]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.623711,-33.533688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Drais]]></name>
+		<description><![CDATA[Italia 1609]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.624252,-33.449150,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Voltaire]]></name>
+		<description><![CDATA[San Isidro 672]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.642387,-33.452625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Don Carlos]]></name>
+		<description><![CDATA[Las Parcelas 9002]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.538284,-33.472324,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Marchant]]></name>
+		<description><![CDATA[Cueto 751]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.672829,-33.435966,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Hoffens]]></name>
+		<description><![CDATA[Rodrigo De Araya 2140]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.610825,-33.474304,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[San Martín]]></name>
+		<description><![CDATA[Lago General Carrera 8]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.734451,-33.468475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Rios]]></name>
+		<description><![CDATA[Gran Avenida 13694 loc. J-23]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.694633,-33.579811,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ciclo Servy]]></name>
+		<description><![CDATA[Alfredo Silva Carvallo 1967]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.781502,-33.532818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Leobike]]></name>
+		<description><![CDATA[Santa Zita 9115]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.533775,-33.425205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Skull Bike]]></name>
+		<description><![CDATA[Tucapel 239]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.627129,-33.451366,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Carlos Leyton]]></name>
+		<description><![CDATA[Luis Thayer Ojeda 166 of. 705]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.604080,-33.417908,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Ezu]]></name>
+		<description><![CDATA[Bellavista 185]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.641953,-33.433617,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Chen - Yowzhichen]]></name>
+		<description><![CDATA[Escritores De Chile 4088]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.742912,-33.488319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Tremenda]]></name>
+		<description><![CDATA[Juan De Montero 13666]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.683784,-33.583698,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Ruta Del Ciclista]]></name>
+		<description><![CDATA[Trinidad 1593]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.606911,-33.546757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Purísima De Lo Vásquez]]></name>
+		<description><![CDATA[San Luis 4877]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.586655,-33.505829,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Lo Marcoleta 505]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.749290,-33.360893,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Julio Henríquez]]></name>
+		<description><![CDATA[Recoleta 5949]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.633995,-33.367336,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Vicente Pérez Rosales 378]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.551407,-33.447601,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Salvador 1863]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.621552,-33.450268,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cycles Gómez]]></name>
+		<description><![CDATA[Enrique Molina 4647]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.583115,-33.476963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[José Francisco Vergara 99-B]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.735664,-33.366650,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Alameda 4305]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.694923,-33.454670,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Las Torres 463]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.731514,-33.478569,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Luis Matte Larraín 1818]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.586967,-33.586319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Obispo Rodríguez 5934]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.716187,-33.454746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[El Negro]]></name>
+		<description><![CDATA[Cuatro Poniente 2029]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.791336,-33.515846,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[La Serena 421]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.601105,-33.527611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Héctor Gajardo 619]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.725182,-33.446033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Los Morros 13236]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.675957,-33.579792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Algarrobal 1915]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.686913,-33.375668,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Cacique Vitacura 2140]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.786903,-33.507000,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Del Ferrocarril 1999]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.776390,-33.539867,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Central 6078]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.688736,-33.499523,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Departamental 299]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.624893,-33.507462,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[San Jorge 499]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.701164,-33.467224,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bulnes 1329]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.705559,-33.606148,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[María Teresa Carmona]]></name>
+		<description><![CDATA[Valenzuela Castillo 1028]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.620491,-33.435760,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Osorio]]></name>
+		<description><![CDATA[Aníbal Pinto 9257]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.653824,-33.545620,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Muhr Bikes]]></name>
+		<description><![CDATA[Detrás de las torres]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.613647,-33.439289,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Juan Lagos]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.694626,-33.438492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Bilbao]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.584885,-33.431793,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[General Prieto]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.653877,-33.429928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name><![CDATA[Taller]]></name>
+		<description><![CDATA[]]></description><styleUrl>#style_talleres</styleUrl>
+		<Point>
+			<coordinates>-70.560257,-33.557747,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
